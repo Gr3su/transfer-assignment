@@ -1,8 +1,13 @@
-spellchecker: aspell
 matrix:
-- name: Text Files
-  ignore:
-  - .spellcheck_ignore.txt
-  sources:
-  - "**/*.txt"
-  - "**/*.md"
+  - name: Text Files
+    aspell:
+      lang: en
+    dictionary:
+      wordcodes:
+        - en
+      encoding: utf-8
+      wordlists:
+        - .wordlist.txt
+    sources:
+      - "**/*.txt"
+      - "**/*.md"
