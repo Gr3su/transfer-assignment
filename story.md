@@ -1,0 +1,10 @@
+# The Keeper's Flame
+The old lighthouse on the rocky cliff had been dark for nearly thirty years, its rusted iron lamp room standing as a silent monument to a bygone era. For young Leo, who grew up in the sleepy coastal town below, the tower was an endless source of mystery and local folklore. Every evening, he would sit on the harbor wall, watching the waves crash against the black stone base and wondering what stories were hidden behind its weather-beaten wooden door.
+
+One autumn afternoon, as storm clouds gathered like bruised fists on the horizon, Leo finally summoned the courage to climb the winding stone steps. The interior smelled of damp salt, ancient dust, and forgotten oil, echoing softly with every step he took. When he reached the top, he discovered a brass-bound journal resting on the keeper's desk, its pages filled with neat handwriting and hand-drawn maps of constellations.
+
+Among the yellowed pages lay an unfinished entry dated November 14th, 1954, describing a phantom ship that appeared only during the fiercest gales. Reading the old keeper's urgent notes, Leo realized that the light hadn't failed because of a broken mechanism, but because the keeper had abandoned his post to rescue a stranded crew. The final sentence read: "If the storm returns, someone must light the path."
+
+Outside, the wind began to howl, and heavy raindrops battered the tall glass panes of the lantern room. Driven by a sudden surge of purpose, Leo cleared the thick cobwebs from the massive glass lens and located a brass tin containing matches and a fresh wick. With trembling hands, he struck a match against the striker, igniting the flame that had been dormant for decades.
+
+As the powerful beam of light pierced through the darkness and cut through the blinding rain, a distant horn sounded from the churning sea—a passing vessel acknowledging the sudden beacon. Standing in the warm, rotating glow, Leo smiled, knowing that the ancient lighthouse was no longer just a memory, but a guardian once more.
