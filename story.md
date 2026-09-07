@@ -1,2 +1,4 @@
 # The Keeper's Flame
 The old lighthouse on the rocky cliff had been dark for nearly thirty years, its rusted iron lamp room standing as a silent monument to a bygone era. For young Leo, who grew up in the sleepy coastal town below, the tower was an endless source of mystery and local folklore. Every evening, he would sit on the harbor wall, watching the waves crash against the black stone base and wondering what stories were hidden behind its weather-beaten wooden door.
+
+One autumn afternoon, as storm clouds gathered like bruised fists on the horizon, Leo finally summoned the courage to climb the winding stone steps. The interior smelled of damp salt, ancient dust, and forgotten oil, echoing softly with every step he took. When he reached the top, he discovered a brass-bound journal resting on the keeper's desk, its pages filled with neat handwriting and hand-drawn maps of constellations.
